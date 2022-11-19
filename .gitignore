@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# API Keys
+.env
+
 # next.js
 /.next/
 /out/
